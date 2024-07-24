@@ -1,5 +1,5 @@
 
-# Insight Shogun
+#  Insight Shogun
 
 ![Insight Shogun Banner](https://github.com/samraatz/InsightShogun/blob/main/banner.png)
 
@@ -10,26 +10,26 @@
 ### Features
 
 - **Web Scraping**: Efficiently extract article titles, publication dates, content, and URLs from various news websites using `requests` and `BeautifulSoup`.
-  ![Web Scraping](path_to_your_image/web_scraping.png)
+  ![Web Scraping](https://github.com/samraatz/InsightShogun/blob/main/ws.png)
 - **Named Entity Recognition (NER)**: Identify key entities such as people, organizations, and locations within the content using `spaCy`.
-  ![Named Entity Recognition](path_to_your_image/ner.png)
+  ![Named Entity Recognition](https://github.com/samraatz/InsightShogun/blob/main/ner.png)
 - **Keywords Extraction**: Utilize the OpenAI API to extract significant keywords from the articles, adding another layer of analysis.
-  ![Keywords Extraction](path_to_your_image/keywords_extraction.png)
+  ![Keywords Extraction](https://github.com/samraatz/InsightShogun/blob/main/key.png)
 - **Knowledge Graph Creation**: Build and visualize a knowledge graph using `Neo4j`, representing relationships between entities and articles.
-  ![Knowledge Graph Creation](path_to_your_image/knowledge_graph.png)
+  ![Knowledge Graph Creation](https://github.com/samraatz/InsightShogun/blob/main/kg.png)
 - **LLM Integration**: Leverage the OpenAI API to uncover additional relationships between entities, identifying deeper insights and connections within the content.
-  ![LLM Integration](path_to_your_image/llm_integration.png)
+  ![LLM Integration](https://github.com/samraatz/InsightShogun/blob/main/api.png)
 
 ### How It Works
 
 1. **Scrape Articles**: Extract detailed information from news websites.
-   ![Scrape Articles](path_to_your_image/scrape_articles.png)
+   ![Scrape Articles](https://github.com/samraatz/InsightShogun/blob/main/scrape.png)
 2. **Process Content**: Use NLP techniques to identify entities and keywords within the articles.
-   ![Process Content](path_to_your_image/process_content.png)
+   ![Process Content](https://github.com/samraatz/InsightShogun/blob/main/spacy.png)
 3. **Build Knowledge Graph**: Create nodes for entities and articles, and establish relationships based on their co-occurrence and shared keywords.
-   ![Build Knowledge Graph](path_to_your_image/build_knowledge_graph.png)
+   ![Build Knowledge Graph](https://github.com/samraatz/InsightShogun/blob/main/kg1.png)
 4. **Enhance with LLM**: Utilize the power of language models to reveal hidden relationships and deeper insights.
-   ![Enhance with LLM](path_to_your_image/enhance_with_llm.png)
+   ![Enhance with LLM](https://github.com/samraatz/InsightShogun/blob/main/er.png)
 
 ### Installation
 
