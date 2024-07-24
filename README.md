@@ -1,7 +1,7 @@
 
 # Insight Shogun
 
-![Insight Shogun Banner](https://github.com/samraatz/InsightShogun/main/banner.jpg)
+![Insight Shogun Banner](https://github.com/samraatz/InsightShogun/blob/main/banner.png)
 
 ### Unleashing the Power of NLP and Knowledge Graphs
 
