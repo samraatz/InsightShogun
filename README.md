@@ -1,5 +1,6 @@
+<img src="https://github.com/samraatz/BayMax-Mini/blob/main/home.png" alt="home page width="500"></img>
 
-## Insight Shogun
+## Insight Shogun 
 
 ### Unleashing the Power of NLP and Knowledge Graphs
 
