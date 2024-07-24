@@ -1,6 +1,4 @@
-Here's your README with properly formatted markdown and placeholders for images:
 
-```markdown
 # Insight Shogun
 
 ![Insight Shogun Banner](https://github.com/samraatz/InsightShogun/main/banner.png)
@@ -74,4 +72,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 This project is licensed under the MIT License.
 ```
 
-Replace `path_to_your_image` with the actual paths to the images you want to include. If the images are stored locally within your repository, ensure they are added to an `images` directory or a similar folder, and link them accordingly (e.g., `images/banner.png`). This way, the README will display the images correctly on your GitHub page.
