@@ -17,7 +17,8 @@
   ![Keywords Extraction](https://github.com/samraatz/InsightShogun/blob/main/key.png)
 - **Knowledge Graph Creation**: Build and visualize a knowledge graph using `Neo4j`, representing relationships between entities and articles.
   ![Knowledge Graph Creation](https://github.com/samraatz/InsightShogun/blob/main/kg.png)
-
+- **PostgreSQL Database Integration**: Upload extracted data to a PostgreSQL database for persistent storage and further analysis.
+  ![Database Integration](https://github.com/samraatz/InsightShogun/blob/main/db.png)
 
 ### How It Works
 
@@ -29,6 +30,9 @@
    ![Build Knowledge Graph](https://github.com/samraatz/InsightShogun/blob/main/kg1.png)
 4. **Enhance with LLM**: Utilize the power of language models to reveal hidden relationships and deeper insights.
    ![Enhance with LLM](https://github.com/samraatz/InsightShogun/blob/main/er.png)
+5. **Upload to PostgreSQL**: Store the extracted data in a PostgreSQL database for persistent storage and further analysis.
+   ![Upload to PostgreSQL](https://github.com/samraatz/InsightShogun/blob/main/db_upload.png)
+
 
 ### Installation
 
