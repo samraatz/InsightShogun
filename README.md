@@ -1,6 +1,9 @@
-<img src="https://github.com/samraatz/BayMax-Mini/blob/main/home.png" alt="home page width="500"></img>
+Here's your README with properly formatted markdown and placeholders for images:
 
-## Insight Shogun 
+```markdown
+# Insight Shogun
+
+![Insight Shogun Banner](https://github.com/samraatz/InsightShogun/main/banner.png)
 
 ### Unleashing the Power of NLP and Knowledge Graphs
 
@@ -9,17 +12,26 @@
 ### Features
 
 - **Web Scraping**: Efficiently extract article titles, publication dates, content, and URLs from various news websites using `requests` and `BeautifulSoup`.
+  ![Web Scraping](path_to_your_image/web_scraping.png)
 - **Named Entity Recognition (NER)**: Identify key entities such as people, organizations, and locations within the content using `spaCy`.
+  ![Named Entity Recognition](path_to_your_image/ner.png)
 - **Keywords Extraction**: Utilize the OpenAI API to extract significant keywords from the articles, adding another layer of analysis.
+  ![Keywords Extraction](path_to_your_image/keywords_extraction.png)
 - **Knowledge Graph Creation**: Build and visualize a knowledge graph using `Neo4j`, representing relationships between entities and articles.
+  ![Knowledge Graph Creation](path_to_your_image/knowledge_graph.png)
 - **LLM Integration**: Leverage the OpenAI API to uncover additional relationships between entities, identifying deeper insights and connections within the content.
+  ![LLM Integration](path_to_your_image/llm_integration.png)
 
 ### How It Works
 
 1. **Scrape Articles**: Extract detailed information from news websites.
+   ![Scrape Articles](path_to_your_image/scrape_articles.png)
 2. **Process Content**: Use NLP techniques to identify entities and keywords within the articles.
+   ![Process Content](path_to_your_image/process_content.png)
 3. **Build Knowledge Graph**: Create nodes for entities and articles, and establish relationships based on their co-occurrence and shared keywords.
+   ![Build Knowledge Graph](path_to_your_image/build_knowledge_graph.png)
 4. **Enhance with LLM**: Utilize the power of language models to reveal hidden relationships and deeper insights.
+   ![Enhance with LLM](path_to_your_image/enhance_with_llm.png)
 
 ### Installation
 
@@ -60,7 +72,6 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ### License
 
 This project is licensed under the MIT License.
+```
 
----
-
-This description covers the project's purpose, features, installation steps, usage, requirements, contributing guidelines, and license, giving potential users and contributors a clear and comprehensive overview.
+Replace `path_to_your_image` with the actual paths to the images you want to include. If the images are stored locally within your repository, ensure they are added to an `images` directory or a similar folder, and link them accordingly (e.g., `images/banner.png`). This way, the README will display the images correctly on your GitHub page.
